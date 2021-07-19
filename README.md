@@ -8,10 +8,10 @@
 
 ### Deploy to Heroku 🔥🕺 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/yakari-music)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dinuraofficial/YAKARI)
 
 ###              The easiest way to deploy this Song Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/yakari-music"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Dinuraofficial/YAKARI"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 
 
 ###   <a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA?sub_confirmation=1"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
@@ -20,7 +20,9 @@
 
 ### Developer :
 
-### [slbotzone](https://t.me/slbotzone)
+### [Dinura](https://t.me/Dinuranikalansuriya)
+### [Supun](https://t.me/Supunma)
+### [SL bot zone](https://t.me/slbotzone)
 
 <img align="left" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:100%;">
 
@@ -114,6 +116,7 @@ If you donlt like to play in linked channel:
 ## Credits
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev
+- [Dinura](https://github.com/Dinuraofficial): Dev
 - [Rojserbest](http://github.com/rojserbest): Dev
 - [Wrench](https://github.com/EverythingSuckz/): Dev
 - [Bemro](https://github.com/bemroofficial): Dev
